@@ -51,6 +51,20 @@ button:hover {
     background-color: #3B7A57;
 }
 
+/* Анімація для логотипу */
+@keyframes bloomEffect {
+    0%, 100% {
+        filter: brightness(1);
+    }
+    50% {
+        filter: brightness(1.5);
+    }
+}
+
+#tournamentLogo {
+    animation: bloomEffect 2s infinite ease-in-out;
+}
+
 /* Адаптивність */
 @media (max-width: 600px) {
     nav ul li {
