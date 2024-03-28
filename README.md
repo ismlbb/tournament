@@ -1,2 +1,2 @@
-# tournament-
-Відкрийте нові горизонти у турнірі Iron Spirit! ps
+https://ismlbb.github.io/tournament
+Відкрийте нові горизонти у турнірі Iron Spirit!
